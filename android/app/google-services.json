@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559878302494",
+    "firebase_url": "https://quzzres.firebaseio.com",
+    "project_id": "quzzres",
+    "storage_bucket": "quzzres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559878302494:android:176d5e756035968d2cb70f",
+        "android_client_info": {
+          "package_name": "com.example.quizzers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559878302494-40s0nmckj9p2io6dsdihcuc9jgj9hjmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZACQPOf9LB-wx7_kZTO9SHRQ4bF4u_3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559878302494-40s0nmckj9p2io6dsdihcuc9jgj9hjmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
